@@ -6,16 +6,10 @@
     "url": "https://github.com/RPGLogs/Uploaders-fflogs/releases/download/v8.5.12/fflogs-v8.5.12.exe#/dl.7z",
     "hash": "ca8851cc40f82573e60d5460ad50c4018c8b96eae1fbf28b87da77a47c7b68d4",
     "bin": [
-        [
-            "FF Logs Uploader.exe",
-            "fflogs"
-        ]
+        [ "FF Logs Uploader.exe", "fflogs" ]
     ],
     "shortcuts": [
-        [
-            "FF Logs Uploader.exe",
-            "FFLogs Uploader"
-        ]
+        [ "FF Logs Uploader.exe", "FFLogs Uploader" ]
     ],
     "pre_install": [
         "7z x \"$dir\\`$PLUGINSDIR\\app-64.7z\" -o\"$dir\"",
