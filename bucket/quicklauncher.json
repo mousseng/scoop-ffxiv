@@ -5,17 +5,12 @@
     "license": "GPL-3.0-or-later",
     "url": "https://github.com/goatcorp/FFXIVQuickLauncher/releases/download/6.3.16/XIVLauncher-6.3.16-full.nupkg",
     "hash": "6ee5b8c0b82c43080e170a0963b709b7d2aaef621cf55c5256ff69adbde2c41a",
+    "extract_dir": "lib/net45",
     "bin": [
-        [
-            "lib/net45/XIVLauncher.exe",
-            "ffxiv"
-        ]
+        [ "XIVLauncher.exe", "ffxiv" ]
     ],
     "shortcuts": [
-        [
-            "lib/net45/XIVLauncher.exe",
-            "XIV Launcher"
-        ]
+        [ "XIVLauncher.exe", "XIV Launcher" ]
     ],
     "checkver": {
         "github": "https://github.com/goatcorp/FFXIVQuickLauncher"
