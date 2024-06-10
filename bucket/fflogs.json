@@ -1,15 +1,21 @@
 {
-    "version": "8.5.12",
+    "version": "8.5.16",
     "description": "FFLogs uploader",
     "homepage": "https://www.fflogs.com/client/download/",
     "license": "Unknown",
-    "url": "https://github.com/RPGLogs/Uploaders-fflogs/releases/download/v8.5.12/fflogs-v8.5.12.exe#/dl.7z",
-    "hash": "ca8851cc40f82573e60d5460ad50c4018c8b96eae1fbf28b87da77a47c7b68d4",
+    "url": "https://github.com/RPGLogs/Uploaders-fflogs/releases/download/v8.5.16/fflogs-v8.5.16.exe#/dl.7z",
+    "hash": "81e4b17327bd47ff2197435285b95e51ad143fe8222fd2d46e8b35d9dca76e2b",
     "bin": [
-        [ "FF Logs Uploader.exe", "fflogs" ]
+        [
+            "FF Logs Uploader.exe",
+            "fflogs"
+        ]
     ],
     "shortcuts": [
-        [ "FF Logs Uploader.exe", "FFLogs Uploader" ]
+        [
+            "FF Logs Uploader.exe",
+            "FFLogs Uploader"
+        ]
     ],
     "pre_install": [
         "7z x \"$dir\\`$PLUGINSDIR\\app-64.7z\" -o\"$dir\"",
