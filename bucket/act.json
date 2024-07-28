@@ -1,15 +1,21 @@
 {
-    "version": "3.7.0.280",
+    "version": "3.8.0.281",
     "description": "A game-agnostic parser tool",
     "homepage": "https://advancedcombattracker.com",
     "license": "Unknown",
-    "url": "https://github.com/EQAditu/AdvancedCombatTracker/releases/download/3.7.0.280/ACTv3.zip",
-    "hash": "f334c065af7c09a78cdea975024e6260aa5427fdd77ad46372fe4ec564357b89",
+    "url": "https://github.com/EQAditu/AdvancedCombatTracker/releases/download/3.8.0.281/ACTv3.zip",
+    "hash": "368e276d8a8dc52fa4e0a41c1cb8946fad376d4de82348963272196c15a75e0d",
     "bin": [
-        [ "Advanced Combat Tracker.exe", "act" ]
+        [
+            "Advanced Combat Tracker.exe",
+            "act"
+        ]
     ],
     "shortcuts": [
-        [ "Advanced Combat Tracker.exe", "Advanced Combat Tracker" ]
+        [
+            "Advanced Combat Tracker.exe",
+            "Advanced Combat Tracker"
+        ]
     ],
     "checkver": {
         "github": "https://github.com/EQAditu/AdvancedCombatTracker"
