@@ -1,10 +1,10 @@
 {
-    "version": "8.12.7",
+    "version": "8.12.11",
     "description": "FFLogs uploader",
     "homepage": "https://www.fflogs.com/client/download/",
     "license": "Unknown",
-    "url": "https://github.com/RPGLogs/Uploaders-fflogs/releases/download/v8.12.7/fflogs-v8.12.7.exe#/dl.7z",
-    "hash": "afbeb53ef815cb715bea3fb08f2cfd424363f20fd3181bb674baf722b0906074",
+    "url": "https://github.com/RPGLogs/Uploaders-fflogs/releases/download/v8.12.11/fflogs-v8.12.11.exe#/dl.7z",
+    "hash": "d12969eb6801d760a0e33ff1b943aed8a13be3745147eaf73c1bb2614a0eadd1",
     "bin": [
         [
             "FF Logs Uploader.exe",
