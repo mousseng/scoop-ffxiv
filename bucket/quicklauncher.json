@@ -7,13 +7,13 @@
     "hash": "8921d93888d7d2f9d136a494a7a65a0e3da81c686dcffa237f74dad545253f9c",
     "bin": [
         [
-            "lib/net45/XIVLauncher.exe",
+            "lib/app/XIVLauncher.exe",
             "ffxiv"
         ]
     ],
     "shortcuts": [
         [
-            "lib/net45/XIVLauncher.exe",
+            "lib/app/XIVLauncher.exe",
             "XIV Launcher"
         ]
     ],
