@@ -1,10 +1,10 @@
 {
-    "version": "1.14.9.1",
+    "version": "1.14.9.2",
     "description": "A latency minimizer",
     "homepage": "https://github.com/Soreepeong/XivAlexander",
     "license": "Apache-2.0",
-    "url": "https://github.com/Soreepeong/XivAlexander/releases/download/v1.14.9.1/XivAlexander_1_14_9_1_02e4b63.zip",
-    "hash": "1a31299cdcc3765c274cbce2ec109f0f383d15db5557fb72d2f3a70900eb1c04",
+    "url": "https://github.com/Soreepeong/XivAlexander/releases/download/v1.14.9.2/XivAlexander_1_14_9_2_7a8ce80.zip",
+    "hash": "35f4c23381fab63f70b5b08093c0f833fa4364e9bc64e57347a66062bcd483a3",
     "bin": [
         [
             "XivAlexanderLoader64.exe",
