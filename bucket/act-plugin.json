@@ -1,10 +1,10 @@
 {
-    "version": "3.0.2.3",
+    "version": "3.0.2.5",
     "description": "FFXIV Plugin for Advanced Combat Tracker ",
     "homepage": "https://github.com/ravahn/FFXIV_ACT_Plugin",
     "license": "Unknown",
-    "url": "https://github.com/ravahn/FFXIV_ACT_Plugin/releases/download/3.0.2.3/FFXIV_ACT_Plugin_3.0.2.3.zip",
-    "hash": "2816986e88122f3fd5ee5a9b34b02d644614d3d53118e3227edac5f665afea12",
+    "url": "https://github.com/ravahn/FFXIV_ACT_Plugin/releases/download/3.0.2.5/FFXIV_ACT_Plugin_3.0.2.5.zip",
+    "hash": "47d849efa4a83f85cfe8eec5891294ef3b0d1d5701ab7e5d362828cba1ec0e66",
     "post_install": [
         "New-Item -Force -ItemType Directory -Path \"$env:AppData/Advanced Combat Tracker/Plugins\" | Out-Null",
         "Copy-Item -Path $dir/*.dll -Destination \"$env:AppData/Advanced Combat Tracker/Plugins\""
